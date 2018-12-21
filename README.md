@@ -1,4 +1,4 @@
-# tezos_kyc
+# Tezos_kyc
 
 # Find out kyc possibilities in the Tezos.
 
